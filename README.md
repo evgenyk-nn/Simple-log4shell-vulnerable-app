@@ -14,7 +14,7 @@
 1. **Клонирование проекта**
 
 ```bash
-git clone https://
+git clone https://github.com/evgenyk-nn/Simple-log4shell-vulnerable-app.git
 cd log4shell-vulnerable-app
 ```
 
